@@ -1,3 +1,0 @@
-# rallyApp
-Making RallyApp
- 
